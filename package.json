@@ -1,0 +1,11 @@
+{
+  "name": "com.kemothstudios.utilities",
+  "version": "1.0.0",
+  "displayName": "Utilities",
+  "description": "Utilities that we can use to ease our game development",
+  "unity": "2017.1",
+  "author": {
+    "name": "Kemoth Studios",
+    "url": "https://www.kemothstudios.com"
+  }
+}
