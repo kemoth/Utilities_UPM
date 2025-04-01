@@ -1,7 +1,9 @@
 {
     "name": "AssemblyEditor-Utilities",
     "rootNamespace": "KemothStudios.Utilities",
-    "references": [],
+    "references": [
+        "GUID:c409c43419083839a8812b8379ce9546"
+    ],
     "includePlatforms": [
         "Editor"
     ],
